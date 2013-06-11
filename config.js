@@ -1,5 +1,5 @@
 requirejs.config({
-   baseUrl : 'lib',
+   baseUrl : '../lib',
    
    paths : {
       'eve'     : 'raphael/eve/eve',
